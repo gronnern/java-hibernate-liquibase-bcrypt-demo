@@ -1,7 +1,5 @@
-package dev.gronnern.demo.controller;
+package dev.gronnern.demo.user;
 
-import dev.gronnern.demo.model.User;
-import dev.gronnern.demo.service.UserService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

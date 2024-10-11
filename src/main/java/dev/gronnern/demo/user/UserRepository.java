@@ -1,6 +1,5 @@
-package dev.gronnern.demo.repository;
+package dev.gronnern.demo.user;
 
-import dev.gronnern.demo.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

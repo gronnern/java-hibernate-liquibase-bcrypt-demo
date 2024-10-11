@@ -1,4 +1,4 @@
-package dev.gronnern.demo.model;
+package dev.gronnern.demo.user;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
